@@ -68,10 +68,11 @@ Clear Outputs: Displays both the interest earned and the final total balance.
  2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`). 
  3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`). 
  4. Push to the Branch (`git push origin feature/AmazingFeature`). 
- 5. Open a Pull Request. 
+ 5. Open a Pull request .
   
  ##  License 
  Distributed under the MIT License. See `LICENSE` for more information. 
  Author:NKINYAM PRAISES NCHA  
  Project Link:https://github.com/Nkinyampraises/simple-interest-calculator.git  
-Fixing a typo
+
+Verification of merge
