@@ -75,4 +75,5 @@ Clear Outputs: Displays both the interest earned and the final total balance.
  Author:NKINYAM PRAISES NCHA  
  Project Link:https://github.com/Nkinyampraises/simple-interest-calculator.git  
 
-Verification of merge
+git commit -m "Merge bug-fix-typo into main"
+git push origin main
